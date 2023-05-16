@@ -1,5 +1,8 @@
 # speech
 Text-to-Speech Converter
+
+
+
 This Text-to-Speech (TTS) Converter is a simple tool that allows you to convert written text into spoken words. It utilizes advanced natural language processing and speech synthesis technologies to generate high-quality, human-like speech. With this converter, you can easily transform your textual content into audio files or have it spoken in real-time.
 
 Features
@@ -16,7 +19,15 @@ Adjust the speech parameters, such as rate, pitch, and volume, if necessary.
 Choose to either generate an audio file or have the text spoken in real-time.
 If generating an audio file, click the "Download" button to save it to your device.
 If opting for real-time speech, click the "Speak" button to listen to the synthesized speech.
+
+
+
 Speech-to-Text Converter
+
+
+
+
+
 The Speech-to-Text (STT) Converter is a tool that enables you to convert spoken words into written text. It leverages cutting-edge automatic speech recognition technology to transcribe audio recordings or live speech into textual format accurately.
 
 Features
